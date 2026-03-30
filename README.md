@@ -1,5 +1,5 @@
 # housing_affordability_in_barcelona
-Final project for the allWomen Data Analysis Bootcamp, mentored by Asia Noble. 
+Analyzing the impact of rising rents on Barcelona's districts as the capstone project for the allWomen Data Analysis Bootcamp, presented on January 27, 2026. Project mentored by Asia Noble (https://github.com/nnoble13/). 
 
 # Housing Affordability in Barcelona: A District-Level Analysis
 
